@@ -1,0 +1,23 @@
+h1{
+    color:beige;
+    text-align: center;
+}
+h2{
+    color:darkorange;
+}
+body{
+    background-color:beige;
+}
+#div1{
+    background-color: darkorange;
+}
+#info{
+    color: beige;
+    text-align: end;
+}
+.medio{
+    text-align: center;
+}
+#div2{
+    text-align: center;
+}
